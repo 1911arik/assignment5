@@ -1,0 +1,130 @@
+.Header{
+
+
+text-align: center;
+margin-top:30px;
+font-family: 'Open Sans', sans-serif;
+
+
+}
+
+
+.image{
+
+padding:38px;
+margin-top:45px;
+margin-left:45px;
+display:flex;
+
+} 
+
+.box-model{
+
+
+
+background-color: rgb(231, 230, 230);
+width: 300px;
+border: 2px solid black;
+padding: 50px;
+margin-left:10px;
+height:370px ; 
+float:right;
+display:flex;
+
+
+
+}
+
+.box-text{
+
+
+  
+   text-align:left;
+   text-justify: inter-word;
+
+   font-family: 'Open Sans', sans-serif;
+
+ }
+
+
+ .button{
+
+   border: 0;
+   line-height: 2.5;
+   padding: 0 20px;
+   font-size: 1rem;
+   text-align: center;
+   color: #fff;
+   border-radius: 7px;
+   background-color: rgb(11, 24, 11);
+   display: inline-block;
+
+   font-family: 'Open Sans', sans-serif;
+
+ } 
+
+
+ .button-position{
+
+
+
+padding-left: 77px;
+
+ } 
+
+.expenses{
+
+
+
+   font-family: 'Open Sans', sans-serif;
+
+}
+
+
+.balance{
+
+
+   padding-left:30px;
+
+   font-family: 'Open Sans', sans-serif;
+
+
+} 
+
+
+#Income{
+
+
+
+   font-family: 'Open Sans', sans-serif;
+
+
+}
+
+
+
+#Food{
+
+
+
+   font-family: 'Open Sans', sans-serif;
+
+} 
+
+
+#Rent{
+
+
+   font-family: 'Open Sans', sans-serif;
+
+} 
+
+
+#Clothes{
+
+
+
+   font-family: 'Open Sans', sans-serif;
+
+
+}
